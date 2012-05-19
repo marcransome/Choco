@@ -1,0 +1,32 @@
+#!/bin/bash
+
+THEMES_DIR="$HOME/Library/Application Support/LimeChat/Themes/"
+
+function do_exit {
+	echo $1
+	echo "Press any key to exit."
+	read
+	exit $2
+}
+
+echo "Looking for LimeChat themes directory.."
+
+if [ -d "$THEMES_DIR" ]; then
+	
+	cp `dirname $0`/Choco.css "$THEMES_DIR" > /dev/null 2>&1
+	RETVAL=$?
+	if [ $RETVAL -ne 0 ]; then
+		do_exit "Error: Unable to copy Choco.css to $THEMES_DIR" 1
+	fi
+	
+	cp `dirname $0`/Choco.yaml "$THEMES_DIR" > /dev/null 2>&1
+	RETVAL=$?
+	if [ $RETVAL -ne 0 ]; then
+		do_exit "Error: Unable to copy Choco.yaml to $THEMES_DIR" 1
+	fi
+
+	do_exit "Choco was installed in $THEMES_DIR" 0
+else
+	do_exit "Error: Unable to find LimeChat themes directory." 1
+fi
+
