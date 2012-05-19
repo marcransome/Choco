@@ -128,7 +128,7 @@ body.normal .sender[type=normal], body.normal .sender[type=myself] {
 /* nick line highlight */
 body.normal .line[highlight=true] > .sender[type=normal] {
 	background-color: #424242;
-	color: #CF7D34;
+	color: #cf7d34;
 }
 
 /* message line highlight */
