@@ -5,7 +5,7 @@ THEMES_DIR="$HOME/Library/Application Support/LimeChat/Themes/"
 function do_exit {
 	echo $1
 	echo "Press any key to exit."
-	read
+	read -n 1 c
 	exit $2
 }
 
