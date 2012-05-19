@@ -13,7 +13,7 @@ To enable Choco:
 * Sit back, relax, and sip some cappuccino
 
 ##License
-Choco is freely available in the public domain, just don't forget to share your freshly brewed beans with the rest of us.
+Choco is freely available in the public domain.  Just don't forget to share your freshly brewed beans with the rest of us.
 
 ##Comments or suggestions?
 Email me at [marc.ransome@fidgetbox.co.uk](marc.ransome@fidgetbox.co.uk) with bug reports, feature requests or general comments and follow [@marcransome](http://www.twitter.com/marcransome) for updates.
