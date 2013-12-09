@@ -12,10 +12,6 @@ body {
 	padding: 0.5ex 2.0ex 0.5ex 1.5ex;
 }
 
-body.console {
-	
-}
-
 body.normal {
 	line-height: 3.0ex;
 }
@@ -29,7 +25,6 @@ hr {
 }
 
 a {
-	/* color: #99c7ff; */
 	color: inherit;
 }
 
