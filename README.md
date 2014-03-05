@@ -7,14 +7,14 @@ Choco is a theme for [LimeChat](http://limechat.net/mac/), an IRC client for Mac
 Installing Choco is easy:
 
 * Dowload Choco as a [zip](https://github.com/marcransome/Choco/zipball/master) or [tar.gz](https://github.com/marcransome/Choco/tarball/master) file
-* Unpack the compressed archive by double clicking it
-* Either double click the helpful `Install` script to install the theme automatically or manually copy the `Choco.css` and `Choco.yaml` files to your `~/Library/Application Support/LimeChat/Themes` directory
+* Unpack the compressed archive by double-clicking on it
+* Double-click the `Install` script to install the theme automatically, or manually copy the `css` and `yaml` files to your `~/Library/Application Support/LimeChat/Themes` directory
 
 ## Using Choco
 To enable Choco:
 
 * Open the LimeChat Preferences window and click the "Theme" tab
-* Change the "Current Theme" to "Choco"
+* Change the "Current Theme" setting to "Choco" or "Choco Condensed"
 * Sit back, relax, and sip your cappuccino
 
 ## License
