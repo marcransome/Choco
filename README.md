@@ -6,7 +6,7 @@ Choco comes in both regular:
 
 ..and condensed versions:
 
-<a href="http://www.fidgetbox.co.uk/github/choco_regular.png" target="_blank"><img src="http://www.fidgetbox.co.uk/github/choco_condensed.png"></a>
+<a href="http://www.fidgetbox.co.uk/github/choco_condensed.png" target="_blank"><img src="http://www.fidgetbox.co.uk/github/choco_condensed.png"></a>
 
 ## Installing Choco
 Installing Choco is easy:
