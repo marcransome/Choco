@@ -19,7 +19,7 @@ Installing Choco is easy:
 To enable Choco:
 
 * Open the LimeChat Preferences window and click the "Theme" tab
-* Change the "Current Theme" setting to "Choco" or "Choco Condensed"
+* Set the "Current Theme" option to your Choco theme of choice
 * Sit back, relax, and sip your cappuccino
 
 ## License
