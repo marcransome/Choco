@@ -1,7 +1,9 @@
 # Choco
 Choco is a theme for [LimeChat](http://limechat.net/mac/), an IRC client for Mac.  It is an adaptation of the [Limelight](https://github.com/Soryu/Limelight) theme, and like a good caffè latte it is warm and inviting, with just the right amount of froth.
 
-![Choco preview](http://www.fidgetbox.co.uk/github/choco.png)
+<a href="http://www.fidgetbox.co.uk/github/choco_regular.png" target="_blank"><img src="http://www.fidgetbox.co.uk/github/choco_regular.png"></a>
+
+<a href="http://www.fidgetbox.co.uk/github/choco_regular.png" target="_blank"><img src="http://www.fidgetbox.co.uk/github/choco_condensed.png"></a>
 
 ## Installing Choco
 Installing Choco is easy:
