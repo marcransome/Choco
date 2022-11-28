@@ -26,4 +26,4 @@ To enable Choco:
 Choco is freely available in the public domain.  Just don't forget to share your freshly brewed beans with the rest of us.
 
 ## Contact
-Email me at [marc.ransome@fidgetbox.co.uk](mailto:marc.ransome@fidgetbox.co.uk) or tweet [@marcransome](http://www.twitter.com/marcransome).
+Email me at [marc.ransome@fidgetbox.co.uk](mailto:marc.ransome@fidgetbox.co.uk) or [create an issue](https://github.com/marcransome/Choco/issues).
